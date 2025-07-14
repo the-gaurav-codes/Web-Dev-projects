@@ -39,12 +39,74 @@ Visit: **[https://flappy-bird-game-gaurav.netlify.app/](https://flappy-bird-game
 
 ### Run Locally
 Clone the repository
-git clone https://github.com/yourusername/flappy-bird-game.git
+
+     '''bash
+        git clone [https://github.com//flappy-bird-game.git](https://github.com/the-gaurav-codes/Web-Dev-projects/edit/main/flappy-bird/)
 
 Navigate to project directory
-cd flappy-bird-game
+
+    ''' bash 
+        cd flappy-bird-game
 
 Open in browser (or use live server)
-open index.html
+
+     '''bash 
+        open index.html
 
 
+## 🎮 How to Play
+
+| Action | Desktop | Mobile |
+|--------|---------|---------|
+| **Start Game** | Press any key / Click | Tap screen |
+| **Fly Bird** | Press any key / Click | Tap screen |
+| **Restart** | Press any key / Click | Tap screen |
+
+## 🛠️ Technical Details
+
+### Built With
+- **HTML5** - Game structure and semantic markup
+- **CSS3** - Styling, animations, and responsive design
+- **Vanilla JavaScript** - Game logic and event handling
+- **Netlify** - Hosting and continuous deployment
+
+### Key Features
+- **Responsive Design**: Mobile-first approach with breakpoints
+- **Performance Optimized**: Uses `requestAnimationFrame` for smooth 60fps
+- **Memory Efficient**: Automatic cleanup of off-screen elements
+- **Touch Friendly**: Full gesture support with zoom prevention
+
+### Game Mechanics
+// Core game variables (customizable)
+let move_speed = 3; // Pipe movement speed
+let gravity = 0.5; // Gravity strength
+let pipe_gap = 40; // Gap between pipes
+let bird_dy = -7.6; // Bird jump force
+
+
+## 📁 Project Structure
+
+flappy-bird-game/
+├── index.html # Main HTML file
+├── style.css # Game styling & responsive design
+├── script.js # Game logic & mechanics
+├── assets/
+│ ├── Bird.png # Bird sprite
+│ ├── background-img.png # Game background
+│ └── favicon.jpg # Site icon
+└── README.md # Documentation
+
+## ⭐ Show Your Support
+
+If you like this project, please consider:
+- Giving it a ⭐ on GitHub
+- Sharing it with friends
+- Following [https://medium.com/@kumar.gaurav.yadav2007] for more projects
+
+---
+
+<div align="center">
+  <strong>Made with ❤️ by Gaurav</strong>
+  <br>
+  <em>Happy Gaming! 🎮</em>
+</div>
