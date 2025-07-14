@@ -11,7 +11,6 @@ A modern, responsive recreation of the classic Flappy Bird game built with vanil
 
 ## 🎮 [Play Now](https://flappy-bird-game-gaurav.netlify.app/)
 
-![Game Preview](https://via.placeholder.com/800x400/87CEEB/000000?text=Flappy+Bird+Game+Preview)
 
 ## ✨ Features
 
@@ -39,3 +38,13 @@ A modern, responsive recreation of the classic Flappy Bird game built with vanil
 Visit: **[https://flappy-bird-game-gaurav.netlify.app/](https://flappy-bird-game-gaurav.netlify.app/)**
 
 ### Run Locally
+Clone the repository
+git clone https://github.com/yourusername/flappy-bird-game.git
+
+Navigate to project directory
+cd flappy-bird-game
+
+Open in browser (or use live server)
+open index.html
+
+
