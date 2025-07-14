@@ -41,16 +41,19 @@ Visit: **[https://flappy-bird-game-gaurav.netlify.app/](https://flappy-bird-game
 Clone the repository
 
      '''bash
+     
         git clone [https://github.com//flappy-bird-game.git](https://github.com/the-gaurav-codes/Web-Dev-projects/edit/main/flappy-bird/)
 
 Navigate to project directory
 
     ''' bash 
+    
         cd flappy-bird-game
 
 Open in browser (or use live server)
 
      '''bash 
+     
         open index.html
 
 
@@ -83,18 +86,6 @@ let gravity = 0.5; // Gravity strength
 let pipe_gap = 40; // Gap between pipes
 let bird_dy = -7.6; // Bird jump force
 
-
-## 📁 Project Structure
-
-flappy-bird-game/
-├── index.html # Main HTML file
-├── style.css # Game styling & responsive design
-├── script.js # Game logic & mechanics
-├── assets/
-│ ├── Bird.png # Bird sprite
-│ ├── background-img.png # Game background
-│ └── favicon.jpg # Site icon
-└── README.md # Documentation
 
 ## ⭐ Show Your Support
 
