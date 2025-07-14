@@ -101,7 +101,7 @@ flappy-bird-game/
 If you like this project, please consider:
 - Giving it a ⭐ on GitHub
 - Sharing it with friends
-- Following [https://medium.com/@kumar.gaurav.yadav2007] for more projects
+- Following [LINKEDIN](https://www.linkedin.com/in/gaurav-kumar-yadav-link/) for more projects
 
 ---
 
